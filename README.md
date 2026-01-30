@@ -3,28 +3,28 @@
 
 # 🚗 Electric Vehicle Analysis | Power BI
 
-## 📌 Project Overview
+# 📌 Project Overview
 This project analyzes electric vehicle data using Power BI to understand
 market trends, adoption growth, and performance insights.
 
-## 📊 Dashboard Highlights
+# 📊 Dashboard Highlights
 - Total Electric Vehicles
 - EV Type Distribution (BEV / PHEV)
 - Year-wise Growth Analysis
 - Manufacturer-wise Comparison
 - Range & Performance Analysis
 
-## 🛠 Tools Used
+# 🛠 Tools Used
 - Power BI
 - Excel / CSV Dataset
 - GitHub
 
-## 📂 Files Included
+# 📂 Files Included
 - Power BI Dashboard (.pbix)
 - Dataset file
 - Dashboard screenshots
 
-## 📷 Dashboard Preview
+# 📷 Dashboard Preview
 [Dashboard]  = ("C:\Users\siddhi\OneDrive\Pictures\Screenshots\Screenshot 2025-11-25 180639.png")
 
 ## 👩‍💻 Created by
