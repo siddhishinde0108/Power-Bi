@@ -25,7 +25,7 @@ market trends, adoption growth, and performance insights.
 - Dashboard screenshots
 
 # 📷 Dashboard Preview
-[Dashboard]  = ("C:\Users\siddhi\OneDrive\Pictures\Screenshots\Screenshot 2025-11-25 180639.png")
+[Dashboard]  = ("C:\Users\siddhi\OneDrive\Pictures\Screenshots\PowerBI-Electric-Vehicle-Analysis.png")
 
 ## 👩‍💻 Created by
 Siddhi Shinde
